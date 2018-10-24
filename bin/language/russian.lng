@@ -1,0 +1,31 @@
+﻿<data 
+    name = Russian native = Русский
+/>
+<default>
+  <about    = "О программе" />
+  <autorun  = "Запускать при загрузке Windows" />
+
+  <cancel = "Отмена" />
+
+  <delete = "Удалить" />
+
+  <exit = "Выход" />
+
+  <help     = "Помощь" />
+
+  <language = "Язык" />
+
+  <ok  = "OK"/>
+
+  <preferences = "Настройки" />
+  <pref        = "Настройки" />
+
+  <settings = "Установки" />
+  <ctrllayout = "Клавиатурная раскладка по правому Ctrl" />
+  <ctrlshow = "Показ окна по однократному левому Ctrl" />	
+
+  <histlen = "Длина истории" />
+  <hotkeyshow = "Горячие клавиши для показа окна" />
+  <shownearcursor = "Показывать окно рядом с курсором мыши" />
+  <optionally = "Дополнительно" />
+</>

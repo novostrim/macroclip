@@ -1,0 +1,5 @@
+LIBRARY hook
+EXPORTS
+	hookstart         @1
+	hookstop          @2
+	forceforeground   @3

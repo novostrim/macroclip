@@ -1,0 +1,32 @@
+﻿<data 
+    name = English native = English
+/>
+<default>
+  <about    = "About"/>
+  <autorun  = "Launch on Windows startup" />
+
+  <cancel = "Cancel" />
+
+  <delete = "Delete" />
+
+  <exit = "Exit" />
+
+  <help     = "Help" />
+
+  <language = "Language" />
+
+  <ok  = "OK"/>
+
+  <preferences = "Preferences" />
+  <pref        = "Preferences" />
+
+  <settings = "Settings" />
+
+  <ctrllayout = "The keyboard layout by hitting Ctrl on the right side" />
+  <ctrlshow = "The viewer pops up by hitting Ctrl on the left side" />
+  <histlen = "History length" />
+  <hotkeyshow = "Hotkeys for the viewer" />
+  <shownearcursor = "To get the viewer popped up near the cursor" />
+  <optionally = "Optionally" />
+
+</>
